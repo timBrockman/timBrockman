@@ -7,7 +7,3 @@ Over the years GitHub allowed me to contribute to some pretty cool projects. I h
 Let's connect, collaborate, and create together to build a better digital world!
  - LinkedIn account: [https://www.linkedin.com/in/timbrockman/](https://www.linkedin.com/in/timbrockman/)
  - Website: [TimBrockman.com](https://timbrockman.com) : the repo is [here](https://github.com/timBrockman/timbrockman.com) 
-
-Here's a dancing skeleton band:
-
-![Dancing Skeleton Band](skeleband.gif)
